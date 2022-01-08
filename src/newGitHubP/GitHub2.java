@@ -3,8 +3,13 @@ package newGitHubP;
 public class GitHub2 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
+		// this is an example
+		
 
+	}public static void Method1() {
+		System.out.println();
+		
 	}
 
 }
